@@ -33,7 +33,7 @@ let checkDriverAge2 = function() {
     }
 }
 
-//calling via a variable since function has technically no name
+//calling via a variable since function has technically no name. We are referencing the function via a variable.
 checkDriverAge2();
 
 
