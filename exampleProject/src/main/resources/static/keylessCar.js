@@ -13,7 +13,7 @@
  *   "Powering On. Enjoy the ride!"
 */
 
-var age =  Number(prompt("What is your age?"));
+let age =  Number(prompt("What is your age?"));
 
 if (age < 18) {
     alert("Sorry, you are too young to drive this car. Powering off");
