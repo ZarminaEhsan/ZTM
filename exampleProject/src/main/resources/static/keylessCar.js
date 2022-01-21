@@ -38,4 +38,85 @@ if (Number(age) < 18) {
 } else if (Number(age) === 18) {
 	alert("Congratulations on your first year of driving. Enjoy the ride!");
 }
- */
+*/
+
+/********************Notes***************/
+
+
+/*
+************ Function declaration ************
+    function newfunction() {
+    }
+
+
+************ Function expression ************
+let newFunction = function () {
+};
+
+
+function expression can have names too e.g. function cat(){}
+without names they are called anonymous function
+
+
+************ Expression ************
+1+3;
+var a = 2;
+return true;
+etc
+expression is something that produces a value
+
+
+************ Calling or invoking of a function ************
+alert();
+newfunction(param1, param2);
+
+
+************ Assign a variable ************
+let a = true;
+
+
+************ Function vs Method ************
+function newFunction() {
+}
+
+method is inside an object:
+let obj = {
+    thisIsMethod : function() {
+    }
+};
+
+to access function we use parenthesis and can use parameters as well:
+newFunction();
+
+to access method we use object then dot and then method name with parenthesis:
+obj.thisIsMethod();
+console.log();
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
